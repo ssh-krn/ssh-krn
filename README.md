@@ -20,12 +20,12 @@
 
 ## 🌐 Connect With Me
 
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
+<p align="left" style="display: flex; gap: 30px; align-items: center;">
   <a href="https://x.com/ssh_krn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="40" width="40" />
   </a>
   <a href="https://t.me/Karan_X0X" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" alt="Telegram" height="40" width="40" />
   </a>
   <a href="mailto:katarekaran330@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
