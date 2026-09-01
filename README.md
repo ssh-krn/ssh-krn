@@ -174,31 +174,8 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
 
 # GitHub Stats:
 <div align="center">
-
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ssh-krn&theme=blueberry&hide_border=false" width="500"/>
-  <br/>
-
 ![Stats](https://github-stats-alpha.vercel.app/api?username=ssh-krn&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff)
-
-
-  
 </div>
-
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<!--### 🔝 Top Contributed Repo-->
-<!--![](https://github-contributor-stats.vercel.app/api?username=ssh-krn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
-[![](https://visitcount.itsvg.in/api?id=ssh-krn&icon=7&color=1)](https://visitcount.itsvg.in)
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssh-krn&theme=radical)
-
-
 ---
 
 ### ✍️ Random Dev Quote
