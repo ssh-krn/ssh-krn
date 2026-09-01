@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left" style="display: flex; gap: 30px; align-items: center;">
+<p align="left" style="display: flex; gap: 300px; align-items: center;">
   <a href="https://x.com/ssh_krn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="40" width="40" />
   </a>
