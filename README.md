@@ -1,4 +1,7 @@
-![Pixel Art Wallpaper Desktop Gif](./assets/oni-mask-gameboy-moewalls-com.gif)
+<p align="center">
+    <img src="wallhaven-3q6m6y_1920x1080.png" width="1000">
+</p>
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
 </p>
