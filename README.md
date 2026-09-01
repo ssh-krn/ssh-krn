@@ -43,13 +43,18 @@
   height="28"
 /> -->
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="mailto:ssh-krn@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/abinash_sharma___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
-</p> -->
+  <a href="https://x.com/ssh_krn" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="40" width="40" />
+  </a>
+  <a href="https://t.me/Karan_X0X" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+  </a>
+  <a href="mailto:katarekaran330@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>
+</p>
 
 
 # Karan
@@ -172,11 +177,12 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
 
 ---
 
-# GitHub Stats:
+# 📊 GitHub Stats:
 <div align="center">
+
 ![Stats](https://github-stats-alpha.vercel.app/api?username=ssh-krn&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff)
+
 </div>
----
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
