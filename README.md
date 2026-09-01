@@ -66,7 +66,7 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
 <b>Tech Stack:</b><br> <b>Languages:</b> TypeScript, JavaScript, Python<br> <b>Frontend:</b> React, Next.js, Tailwind CSS, Framer Motion<br> <b>Backend:</b> Node.js, REST APIs, WebSockets<br> <b>AI & GenAI:</b> LLMs, RAG, AI Agents, LangChain, Prompt Engineering, AI-assisted Development<br> <b>DevOps & Tools:</b> Git, GitHub, Docker, Linux, WSL, CI/CD, Cloud Deployment<br> <b>Currently Exploring:</b> AI Engineering, Machine Learning, Backend Development, Cloud & DevOps, Scalable Applications
 ---
 
-# 💻 My favorite tools and technologies
+# Techie Stuff
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -168,7 +168,7 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
 
   <br/>
@@ -185,15 +185,6 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ssh-krn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
 <!--### 🔝 Top Contributed Repo-->
 <!--![](https://github-contributor-stats.vercel.app/api?username=ssh-krn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
 [![](https://visitcount.itsvg.in/api?id=ssh-krn&icon=7&color=1)](https://visitcount.itsvg.in)
@@ -204,17 +195,10 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssh-krn&theme=radical)
 
 
-
- <summary><h2>📺 Latest YouTube Videos</h2></summary>
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
-![3D Contributions - Night Rainbow](https://raw.githubusercontent.com/ssh-krn/ssh-krn/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
