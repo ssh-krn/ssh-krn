@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="jp.gif" width="1000">
+    <img src="wallhaven-3q6m6y_1920x1080.png" width="1000">
 </p>
 
 ![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
@@ -7,9 +7,8 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/abinasharma001">
+  <a href="https://github.com/ssh-krn">
   </a>
 </p>
 
@@ -43,7 +42,7 @@
   >
 </h3>
  &nbsp;&nbsp;<img 
-  src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+  src="https://komarev.com/ghpvc/?username=ssh-krn&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
   alt="Profile Views"
   width="150"
   height="28"
@@ -52,7 +51,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="mailto:abinasharma001@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
+  <a href="mailto:ssh-krn@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
   <a href="https://www.instagram.com/abinash_sharma___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
   <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
 </p>
@@ -180,10 +179,10 @@
 <div align="center">
 
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abinasharma001&theme=blueberry&hide_border=false" width="500"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ssh-krn&theme=blueberry&hide_border=false" width="500"/>
   <br/>
 
-![Stats](https://github-stats-alpha.vercel.app/api?username=abinasharma001&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff)
+![Stats](https://github-stats-alpha.vercel.app/api?username=ssh-krn&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff)
 
 
   
@@ -194,7 +193,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abinasharma001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ssh-krn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -203,13 +202,13 @@
 
 
 <!--### 🔝 Top Contributed Repo-->
-<!--![](https://github-contributor-stats.vercel.app/api?username=abinasharma001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
-[![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
+<!--![](https://github-contributor-stats.vercel.app/api?username=ssh-krn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
+[![](https://visitcount.itsvg.in/api?id=ssh-krn&icon=7&color=1)](https://visitcount.itsvg.in)
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinasharma001&theme=radical)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssh-krn&theme=radical)
 
 
 
@@ -253,7 +252,7 @@
 ---
 
 
-![3D Contributions - Night Rainbow](https://raw.githubusercontent.com/abinasharma001/abinasharma001/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions - Night Rainbow](https://raw.githubusercontent.com/ssh-krn/ssh-krn/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -348,7 +347,7 @@
 
 
   ## 💰 Buy Me a Coffee ☕ 👇🏻
-[![RazorPay](https://img.icons8.com/?size=100&id=UIlTiRUlZuzZ&format=png&color=000000)](https://rzp.io/rzp/yTcibpUO) <a><img align="right" width="150" height="150" src="https://github.com/abinasharma001/abinasharma001/blob/main/output-onlinegiftools.gif"></a>
+[![RazorPay](https://img.icons8.com/?size=100&id=UIlTiRUlZuzZ&format=png&color=000000)](https://rzp.io/rzp/yTcibpUO) <a><img align="right" width="150" height="150" src="https://github.com/ssh-krn/ssh-krn/blob/main/output-onlinegiftools.gif"></a>
 
 
 
