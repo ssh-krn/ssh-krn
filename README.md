@@ -60,10 +60,10 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="450" src="./assets/oni-mask-gameboy-moewalls-com.gif">
 
-<b>About Me:</b><br>
-I'm Karan. I'm passionate about technology, AI, and building things. I like experimenting with new tools, learning by doing, and constantly exploring. Outside of coding, I'm into anime ( nerd alert ), meeting new people, and working on interesting stuff.<br><br>
+<b>About Me:</b></br>
+I'm Karan. I'm passionate about technology, AI, and building things. I like experimenting with new tools, learning by doing, and constantly exploring. Outside of coding, I'm into anime ( nerd alert ), meeting new people, and working on interesting stuff.</br></br>
 
-Tech Stack:<br> Languages TypeScript, JavaScript, Python<br> Frontend React, Next.js, Tailwind CSS, Framer Motion<br> Backend Node.js, REST APIs, WebSockets<br> AI & GenAI LLMs, RAG, AI Agents, LangChain, Prompt Engineering, AI-assisted Development<br> DevOps & Tools Git, GitHub, Docker, Linux, WSL, CI/CD, Cloud Deployment<br> Currently Exploring AI Engineering, Machine Learning, Backend Development, Cloud & DevOps, Scalable Applications
+Tech Stack:</br> Languages TypeScript, JavaScript, Python</br> Frontend React, Next.js, Tailwind CSS, Framer Motion</br> Backend Node.js, REST APIs, WebSockets</br> AI & GenAI LLMs, RAG, AI Agents, LangChain, Prompt Engineering, AI-assisted Development</br> DevOps & Tools Git, GitHub, Docker, Linux, WSL, CI/CD, Cloud Deployment</br> Currently Exploring AI Engineering, Machine Learning, Backend Development, Cloud & DevOps, Scalable Applications
 ---
 
 # Techie Stuff
