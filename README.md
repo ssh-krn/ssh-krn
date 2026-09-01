@@ -16,8 +16,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left" style="display: flex; gap: 300px; align-items: center;">
