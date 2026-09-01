@@ -2,9 +2,9 @@
     <img src="wallhaven-3q6m6y_1920x1080.png" width="1000">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ssh-krn">
@@ -36,12 +36,12 @@
     height="30"
   >
 </h3> -->
- &nbsp;&nbsp;<img 
+ <!-- &nbsp;&nbsp;<img 
   src="https://komarev.com/ghpvc/?username=ssh-krn&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
   alt="Profile Views"
   width="150"
   height="28"
-/>
+/> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
@@ -178,7 +178,7 @@ I'm Karan. I'm passionate about technology, AI, and building things. I like expe
 </div>
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
